@@ -82,7 +82,7 @@ Built a microcontroller-based coin-operated mobile charging system with automate
 ## 📫 Connect With Me
 
 - 📧 sriyaadimulam@gmail.com
-- 💼 LinkedIn: linkedin.com/in/sriya-ece
+- 💼 LinkedIn: https://linkedin.com/in/sriya-ece
 
 ---
 
